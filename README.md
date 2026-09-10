@@ -2,15 +2,18 @@
 
 # 💄 Sephora — Product & Customer Review Analysis
 
-**Turning 600K+ customer reviews into brand, product, and customer insights**
+
+> Analyze 600K+ customer reviews and 8K+ products to evaluate customer satisfaction, product performance, pricing, and review engagement using Python, Pandas, and Tableau.
+
+### 📊 Dashboard
+
+🔗 **[View Interactive Tableau Dashboard]([YOUR_TABLEAU_PUBLIC_LINK](https://public.tableau.com/app/profile/sushmita.sharma4479/viz/Book2_17854911495320/Story1?publish=yes))**
 
 [![Python](https://img.shields.io/badge/Python-pandas%20%7C%20numpy%20%7C%20seaborn-3776AB?logo=python&logoColor=white)](#)
 [![Tableau](https://img.shields.io/badge/Dashboard-Tableau-E97627?logo=tableau&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Complete-2E7D32)](#)
 
 </div>
-
----
 
 ## 📌 Overview
 
